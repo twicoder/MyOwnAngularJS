@@ -13,5 +13,17 @@
     "AngularJS"
   ],
   "author": "Chinwe Ren",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-testem": "^0.5.22",
+    "grunt-testem-mincer": "^0.5.18",
+    "jasmine": "^2.6.0",
+    "sinon": "^2.3.8"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4"
+  }
 }
