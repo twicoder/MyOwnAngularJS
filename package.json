@@ -1,0 +1,17 @@
+{
+  "name": "my-own-angular-js",
+  "version": "0.1.0",
+  "description": "This is private angularjs implementation",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AngularJS"
+  ],
+  "author": "Chinwe Ren",
+  "license": "ISC"
+}
