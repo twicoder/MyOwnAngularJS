@@ -18,25 +18,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="scope_spec.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scope_spec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/scope_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="311" column="51" lean-forward="false" selection-start-line="311" selection-start-column="51" selection-end-line="311" selection-end-column="51" />
+            <state relative-caret-position="347">
+              <caret line="366" column="34" lean-forward="true" selection-start-line="366" selection-start-column="34" selection-end-line="366" selection-end-column="34" />
               <folding>
                 <element signature="e#5463#6085#0" expanded="false" />
                 <element signature="e#6147#6635#0" expanded="false" />
                 <element signature="e#7724#8274#0" expanded="false" />
+                <element signature="e#8357#9041#0" expanded="false" />
+                <element signature="e#9126#9683#0" expanded="false" />
+                <element signature="e#9763#10332#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scope.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scope.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/scope.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+            <state relative-caret-position="385">
+              <caret line="68" column="29" lean-forward="false" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -72,8 +75,8 @@
         <option value="$PROJECT_DIR$/test/hello_spec.js" />
         <option value="$PROJECT_DIR$/src/hello.js" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
-        <option value="$PROJECT_DIR$/src/scope.js" />
         <option value="$PROJECT_DIR$/test/scope_spec.js" />
+        <option value="$PROJECT_DIR$/src/scope.js" />
       </list>
     </option>
   </component>
@@ -182,12 +185,12 @@
       <workItem from="1514463064864" duration="1760000" />
       <workItem from="1514644072287" duration="1431000" />
       <workItem from="1514686579477" duration="2653000" />
-      <workItem from="1514724290006" duration="1284000" />
+      <workItem from="1514724290006" duration="2760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32731000" />
+    <option name="totallyTimeSpent" value="34207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -348,6 +351,9 @@
             <element signature="e#5463#6085#0" expanded="false" />
             <element signature="e#6147#6635#0" expanded="false" />
             <element signature="e#7724#8274#0" expanded="false" />
+            <element signature="e#8357#9041#0" expanded="false" />
+            <element signature="e#9126#9683#0" expanded="false" />
+            <element signature="e#9763#10332#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -360,6 +366,9 @@
             <element signature="e#5463#6085#0" expanded="false" />
             <element signature="e#6147#6635#0" expanded="false" />
             <element signature="e#7724#8274#0" expanded="false" />
+            <element signature="e#8357#9041#0" expanded="false" />
+            <element signature="e#9126#9683#0" expanded="false" />
+            <element signature="e#9763#10332#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -530,24 +539,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scope.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/scope_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="311" column="51" lean-forward="false" selection-start-line="311" selection-start-column="51" selection-end-line="311" selection-end-column="51" />
+        <state relative-caret-position="347">
+          <caret line="366" column="34" lean-forward="true" selection-start-line="366" selection-start-column="34" selection-end-line="366" selection-end-column="34" />
           <folding>
             <element signature="e#5463#6085#0" expanded="false" />
             <element signature="e#6147#6635#0" expanded="false" />
             <element signature="e#7724#8274#0" expanded="false" />
+            <element signature="e#8357#9041#0" expanded="false" />
+            <element signature="e#9126#9683#0" expanded="false" />
+            <element signature="e#9763#10332#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="68" column="29" lean-forward="false" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
