@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812e8c1e-f014-4c1f-b7ba-08608ab26be7" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/demos/test1.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/scope.js" afterPath="$PROJECT_DIR$/src/scope.js" />
       <change beforePath="$PROJECT_DIR$/test/scope_spec.js" afterPath="$PROJECT_DIR$/test/scope_spec.js" />
@@ -21,8 +22,8 @@
       <file leaf-file-name="scope_spec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/scope_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="366" column="34" lean-forward="true" selection-start-line="366" selection-start-column="34" selection-end-line="366" selection-end-column="34" />
+            <state relative-caret-position="176">
+              <caret line="504" column="39" lean-forward="true" selection-start-line="504" selection-start-column="39" selection-end-line="504" selection-end-column="39" />
               <folding>
                 <element signature="e#5463#6085#0" expanded="false" />
                 <element signature="e#6147#6635#0" expanded="false" />
@@ -30,6 +31,10 @@
                 <element signature="e#8357#9041#0" expanded="false" />
                 <element signature="e#9126#9683#0" expanded="false" />
                 <element signature="e#9763#10332#0" expanded="false" />
+                <element signature="e#10405#10749#0" expanded="false" />
+                <element signature="e#10836#11673#0" expanded="false" />
+                <element signature="e#11737#12238#0" expanded="false" />
+                <element signature="e#13642#14241#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -38,8 +43,8 @@
       <file leaf-file-name="scope.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/scope.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="68" column="29" lean-forward="false" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+            <state relative-caret-position="266">
+              <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -75,6 +80,7 @@
         <option value="$PROJECT_DIR$/test/hello_spec.js" />
         <option value="$PROJECT_DIR$/src/hello.js" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/demos/test1.js" />
         <option value="$PROJECT_DIR$/test/scope_spec.js" />
         <option value="$PROJECT_DIR$/src/scope.js" />
       </list>
@@ -120,7 +126,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,6 +147,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,12 +191,13 @@
       <workItem from="1514463064864" duration="1760000" />
       <workItem from="1514644072287" duration="1431000" />
       <workItem from="1514686579477" duration="2653000" />
-      <workItem from="1514724290006" duration="2760000" />
+      <workItem from="1514724290006" duration="4674000" />
+      <workItem from="1514730606170" duration="4968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34207000" />
+    <option name="totallyTimeSpent" value="41089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -261,7 +268,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/hello_spec.js" />
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
@@ -354,6 +360,10 @@
             <element signature="e#8357#9041#0" expanded="false" />
             <element signature="e#9126#9683#0" expanded="false" />
             <element signature="e#9763#10332#0" expanded="false" />
+            <element signature="e#10405#10749#0" expanded="false" />
+            <element signature="e#10836#11673#0" expanded="false" />
+            <element signature="e#11737#12238#0" expanded="false" />
+            <element signature="e#13642#14241#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -369,6 +379,10 @@
             <element signature="e#8357#9041#0" expanded="false" />
             <element signature="e#9126#9683#0" expanded="false" />
             <element signature="e#9763#10332#0" expanded="false" />
+            <element signature="e#10405#10749#0" expanded="false" />
+            <element signature="e#10836#11673#0" expanded="false" />
+            <element signature="e#11737#12238#0" expanded="false" />
+            <element signature="e#13642#14241#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -539,10 +553,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demos/test1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/scope_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="366" column="34" lean-forward="true" selection-start-line="366" selection-start-column="34" selection-end-line="366" selection-end-column="34" />
+        <state relative-caret-position="176">
+          <caret line="504" column="39" lean-forward="true" selection-start-line="504" selection-start-column="39" selection-end-line="504" selection-end-column="39" />
           <folding>
             <element signature="e#5463#6085#0" expanded="false" />
             <element signature="e#6147#6635#0" expanded="false" />
@@ -550,14 +571,18 @@
             <element signature="e#8357#9041#0" expanded="false" />
             <element signature="e#9126#9683#0" expanded="false" />
             <element signature="e#9763#10332#0" expanded="false" />
+            <element signature="e#10405#10749#0" expanded="false" />
+            <element signature="e#10836#11673#0" expanded="false" />
+            <element signature="e#11737#12238#0" expanded="false" />
+            <element signature="e#13642#14241#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scope.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="68" column="29" lean-forward="false" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        <state relative-caret-position="266">
+          <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
