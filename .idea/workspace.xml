@@ -21,8 +21,8 @@
       <file leaf-file-name="scope_spec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/scope_spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="666" column="0" lean-forward="false" selection-start-line="666" selection-start-column="0" selection-end-line="666" selection-end-column="0" />
+            <state relative-caret-position="271">
+              <caret line="762" column="35" lean-forward="false" selection-start-line="762" selection-start-column="35" selection-end-line="762" selection-end-column="35" />
               <folding>
                 <element signature="e#5463#6085#0" expanded="false" />
                 <element signature="e#6147#6635#0" expanded="false" />
@@ -36,6 +36,10 @@
                 <element signature="e#13642#14241#0" expanded="false" />
                 <element signature="e#14322#15021#0" expanded="false" />
                 <element signature="e#15492#16098#0" expanded="false" />
+                <element signature="e#18428#18723#0" expanded="false" />
+                <element signature="e#18801#19418#0" expanded="false" />
+                <element signature="e#19485#20234#0" expanded="false" />
+                <element signature="e#20310#21055#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -44,8 +48,8 @@
       <file leaf-file-name="scope.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/scope.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="121" column="9" lean-forward="true" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+            <state relative-caret-position="380">
+              <caret line="62" column="33" lean-forward="true" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -194,12 +198,12 @@
       <workItem from="1514686579477" duration="2653000" />
       <workItem from="1514724290006" duration="4674000" />
       <workItem from="1514730606170" duration="5041000" />
-      <workItem from="1514794854903" duration="2858000" />
+      <workItem from="1514794854903" duration="6277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44020000" />
+    <option name="totallyTimeSpent" value="47439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -341,6 +345,10 @@
             <element signature="e#13642#14241#0" expanded="false" />
             <element signature="e#14322#15021#0" expanded="false" />
             <element signature="e#15492#16098#0" expanded="false" />
+            <element signature="e#18428#18723#0" expanded="false" />
+            <element signature="e#18801#19418#0" expanded="false" />
+            <element signature="e#19485#20234#0" expanded="false" />
+            <element signature="e#20310#21055#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -362,6 +370,10 @@
             <element signature="e#13642#14241#0" expanded="false" />
             <element signature="e#14322#15021#0" expanded="false" />
             <element signature="e#15492#16098#0" expanded="false" />
+            <element signature="e#18428#18723#0" expanded="false" />
+            <element signature="e#18801#19418#0" expanded="false" />
+            <element signature="e#19485#20234#0" expanded="false" />
+            <element signature="e#20310#21055#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -542,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/scope_spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="666" column="0" lean-forward="false" selection-start-line="666" selection-start-column="0" selection-end-line="666" selection-end-column="0" />
+        <state relative-caret-position="271">
+          <caret line="762" column="35" lean-forward="false" selection-start-line="762" selection-start-column="35" selection-end-line="762" selection-end-column="35" />
           <folding>
             <element signature="e#5463#6085#0" expanded="false" />
             <element signature="e#6147#6635#0" expanded="false" />
@@ -557,14 +569,18 @@
             <element signature="e#13642#14241#0" expanded="false" />
             <element signature="e#14322#15021#0" expanded="false" />
             <element signature="e#15492#16098#0" expanded="false" />
+            <element signature="e#18428#18723#0" expanded="false" />
+            <element signature="e#18801#19418#0" expanded="false" />
+            <element signature="e#19485#20234#0" expanded="false" />
+            <element signature="e#20310#21055#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scope.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="121" column="9" lean-forward="true" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+        <state relative-caret-position="380">
+          <caret line="62" column="33" lean-forward="true" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
